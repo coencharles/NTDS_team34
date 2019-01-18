@@ -1,5 +1,7 @@
 # NTDS_team34
 Project of team 34 for the course EE558 - A Network Tour of Data Science (EPFL)
+Predicting the nature of terrorist attacks 
+
 
 This github is the main platform for our project in the cours EE558. We are working with a dataset provided by UCSC (https://linqs-data.soe.ucsc.edu/public/lbc/TerrorAttack.tgz).  The goal of this project is to to predict the labels (location or type of attack) of an attack only by using the features given in the dataset. 
 
